@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - 概率论
 - 强化学习
--随机过程
+- 随机过程
 
 education:
   courses:
